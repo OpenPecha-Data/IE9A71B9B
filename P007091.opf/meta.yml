@@ -5,5 +5,29 @@ source_metadata:
   title: 'གསུང་འབུམ། འཇིགས་མེད་ཕུན་ཚོགས་འབྱུང་གནས། ༼གསེར་རྟ་བླ་རུང་དགོན་གྱི་པར་མ༽
 
     '
-  volume: ''
+  volume:
+    a3322aae47474d0fa637ef2b36cd3234:
+      image_group_id: I3007
+      title: ''
+      volume_number: 1
+      total_pages: 350
+    a0bde3dc369145c0947ca3e2c23c0f6b:
+      image_group_id: I3008
+      title: ''
+      volume_number: 2
+      total_pages: 610
+    ae1f2582bd9e46eabb95f70927d50f4c:
+      image_group_id: I3009
+      title: ''
+      volume_number: 3
+      total_pages: 588
   author: ''
+ebook_metadata:
+  title: 'གསུང་འབུམ། འཇིགས་མེད་ཕུན་ཚོགས་འབྱུང་གནས། ༼གསེར་རྟ་བླ་རུང་དགོན་གྱི་པར་མ༽
+
+    '
+  author: ''
+  sku: P007091
+  cover: cover.jpg
+  layers:
+  - pagination
