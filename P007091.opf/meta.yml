@@ -22,6 +22,22 @@ source_metadata:
       volume_number: 3
       total_pages: 588
   author: ''
+  volumes:
+    a2f7488f97b64524bdb7629bb3161710:
+      image_group_id: I3007
+      title: ''
+      volume_number: 1
+      total_pages: 350
+    b057a024f1af45ed8bdaaf4972204dc3:
+      image_group_id: I3008
+      title: ''
+      volume_number: 2
+      total_pages: 610
+    ca55ebd8efaf4e748d01d063f746e452:
+      image_group_id: I3009
+      title: ''
+      volume_number: 3
+      total_pages: 588
 ebook_metadata:
   title: 'གསུང་འབུམ། འཇིགས་མེད་ཕུན་ཚོགས་འབྱུང་གནས། ༼གསེར་རྟ་བླ་རུང་དགོན་གྱི་པར་མ༽
 
