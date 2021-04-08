@@ -28,16 +28,19 @@ source_metadata:
       title: ''
       volume_number: 1
       total_pages: 350
+      base_file: v001.txt
     b057a024f1af45ed8bdaaf4972204dc3:
       image_group_id: I3008
       title: ''
       volume_number: 2
       total_pages: 610
+      base_file: v002.txt
     ca55ebd8efaf4e748d01d063f746e452:
       image_group_id: I3009
       title: ''
       volume_number: 3
       total_pages: 588
+      base_file: v003.txt
 ebook_metadata:
   title: 'གསུང་འབུམ། འཇིགས་མེད་ཕུན་ཚོགས་འབྱུང་གནས། ༼གསེར་རྟ་བླ་རུང་དགོན་གྱི་པར་མ༽
 
